@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services;
+namespace Origamiv\Services;
 
 use PDO;
 use PhpOffice\PhpSpreadsheet\Exception;
