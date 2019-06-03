@@ -1,0 +1,24 @@
+{
+    "name": "origamiv/ImportServise",
+    "type": "library",
+    "description": "Import service from Excel files to DB",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/origamiv/ImportService",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Veniamin Smorodinsky",
+            "email": "origamiv@gmail.com",
+            "homepage": "https://github.com/origamiv/ImportService",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Origamiv": "src"
+        }
+    }
+}
