@@ -1,5 +1,5 @@
 {
-    "name": "origamiv/services/importservice",
+    "name": "origamiv/services",
     "type": "library",
     "description": "Import service from Excel files to DB",
     "keywords": ["log","logging"],
